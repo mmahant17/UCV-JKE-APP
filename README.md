@@ -1,2 +1,2 @@
 # UCV-JKE-APP
-merge jj-8
+merge JJ-8
